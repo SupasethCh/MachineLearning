@@ -1,5 +1,5 @@
 # MachineLearning
-    This repository with about Machine Learning
+    This repository with about type of Machine Learning
 
     1.Unsupervised Learning
 
